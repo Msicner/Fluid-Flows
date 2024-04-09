@@ -1,8 +1,10 @@
-# Implementace kvantových algoritmů pro řešení simulací fluidní dynamiky
-Tato složka je knihovnou použitou pro impllementaci algoritmů HHL a VQLS v kontextu řešení simulací fluidní dynamiky v SOČ zabývající se využitím kvantových počítačů v simulacích proudících kapalina přenosu tepla.
+# Implementation of quantum algorithms for fluid flows simulations
+This repository is the code used for implementation of quantum algorithms HHL and VQLS for solving sinulations of heat transfer in flowing fluids. This code has been used in Students' Professional Activity paper.
 
-Implementace založena na dostupných knihovnách:
+The impementation is based on publicly accessible libraries:
 
 HHL: https://github.com/anedumla/quantum_linear_solvers/blob/main/linear_solvers/hhl.py
 
 VQLS: https://github.com/QuantumApplicationLab/vqls-prototype/blob/main/docs/tutorials/vqls.ipynb
+
+Runs in Qiskit<1
